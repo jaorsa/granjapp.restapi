@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "tachasyperico",
+    "database": "nacholibre",
+    "host": "34.69.127.214",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "tachasyperico",
+    "database": "nacholibre",
+    "host": "34.69.127.214",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "tachasyperico",
+    "database": "nacholibre",
+    "host": "34.69.127.214",
+    "dialect": "postgres"
+  }
+}
+
